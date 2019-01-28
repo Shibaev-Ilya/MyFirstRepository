@@ -1,1 +1,4 @@
-body {background: lightgreen;}
+body {background: lightgreen;
+	}
+
+div { width: 100px; height: 100px; border: 2px dotted darkblue; margin-bottom: 10px;}	
